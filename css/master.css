@@ -417,6 +417,11 @@ ul {
     user-select: none;
 }
 
+.portfolio .box img {
+    /* max-width: 100%; */
+    width: 10px;
+}
+
 /* Start Contact  */
 
 .contact {
